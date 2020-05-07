@@ -7,5 +7,5 @@
   * Adding quads
   * RDF Lists
 * Reference
-  * [JSDoc](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/clownface)
-  * [Typings](/api)
+  * [API](api.html)
+  * [Typings](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/clownface)
